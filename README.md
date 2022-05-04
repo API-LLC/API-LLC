@@ -10,6 +10,7 @@ first time through careful development so production costs are minimized. I buil
 - I need to update my skills for current processor generations but have past experience in small Motorola, Texas Instruments, and Intel. 
 
 - 👀 I’m interested in ModernAuth capable GNU/Linux email clients or development
+- 👀 I'm interested in connecting some of my micros via TAG to eliminate the bootloader software
 - 🌱 I’m currently learning GitHub
 - 📫 How to reach me email to Promotions@jdnash.com. No spam please. No offers to sell me websites. Or extended waranties on my car. Thank-you.
 
