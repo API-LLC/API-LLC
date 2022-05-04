@@ -6,7 +6,7 @@ first time through careful development so production costs are minimized. I buil
 - I am NOT ready to just drop in and contribute to a major FOSS project. 
  
 - My background is in AeroSpace Embedded Systems, mostly macro assembler, and I enjoy coding for Raspberry PI, TI LaunchPads, or Arduino. 
-- Currently I use html5, css3, php in serving my customers, but I have also used pascal and C++ and of course I hack my way through BASH just to manage my Mint/MATE desktop. I am generally alergic to javascript, java, and the like because the syntax is non-intuitive to me. 
+- Currently I use html5, css3, php in serving my customers, but I have also used pascal and C++ and of course I hack my way through BASH just to manage my Mint/MATE desktop. I am generally alergic to javascript, java, and the like because the syntax is non-intuitive to me. My preferred editor is BlueFish.
 - I need to update my skills for current processor generations but have past experience in small Motorola, Texas Instruments, and Intel. 
 
 - 👀 I’m interested in ModernAuth capable GNU/Linux email clients or development
